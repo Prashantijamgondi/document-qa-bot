@@ -119,17 +119,3 @@ streamlit run app.py
 4. Add an environment variable named `GEMINI_API_KEY` in the Render dashboard.
 5. Deploy and test the live app.
 
-## Suggested Demo Flow
-
-For your 3–5 minute screen recording:
-
-1. Introduce the assignment problem and why RAG is needed.
-2. Show the folder structure and explain ingestion vs query separation.
-3. Upload documents in the UI and click **Index Documents**.
-4. Ask 2–3 relevant questions.
-5. Ask one question that is not in the documents to show hallucination prevention.
-6. Show the deployed URL and public GitHub repo.
-
-## Notes for Interviewers
-
-This project prioritizes simplicity, clean structure, and grounded answers over unnecessary framework complexity. It is designed to be easy to run, inspect, and extend.
